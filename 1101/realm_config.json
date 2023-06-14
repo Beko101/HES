@@ -1,0 +1,9 @@
+{
+    "app_id": "hashencryptionsystem-hes-ejbzi",
+    "config_version": 20210101,
+    "name": "HashEncryptionSystem-HES",
+    "location": "IE",
+    "provider_region": "aws-eu-west-1",
+    "deployment_model": "GLOBAL",
+    "environment": "development"
+}
